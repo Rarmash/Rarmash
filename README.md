@@ -4,9 +4,9 @@
 Hello! I'm Andrew, a programmer and a student at RTU MIREA. I have a passion for coding and constantly strive to learn new technologies. My primary programming languages include Java, Python, C/C++, HTML/CSS, and I am currently exploring C#, Kotlin and JavaScript.
 
 ## Skills
-- Languages: Java, Python, C/C++, HTML/CSS
+- Languages: Java, Python, C/C++, HTML/CSS, Kotlin
 - Technologies: Git, GitHub, SQL, Linux, Android Development
-- Currently Learning: C#, Kotlin, JavaScript.
+- Currently Learning: C#, JavaScript.
 
 ## Projects
 Here are some of my notable projects:
@@ -15,18 +15,22 @@ Here are some of my notable projects:
 
    A Python API wrapper for Xbox based on https://xbl.io.
 
-3. [R4Bot](https://github.com/Rarmash/R4Bot)
+2. [R4Bot](https://github.com/Rarmash/R4Bot)
 
    A Discord bot designed to ease server moderation using slash commands.
 
-5. [Chronicles of Arclight](https://github.com/Intofire-Studios/Chronicles-of-Arclight)
+3. [Chronicles of Arclight](https://github.com/Intofire-Studios/Chronicles-of-Arclight)
 
    A text-based RPG game written in Python.
 
-7. [B4cklog](https://github.com/Rarmash/B4cklog)
+4. [B4cklog](https://github.com/Rarmash/B4cklog)
 
    A game backlog manager written in Python.
+   
+5. [B4cklog-Mobile](https://github.com/Rarmash/B4cklog-Mobile)
 
+   Android client for B4cklog app.
+   
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Rarmash&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rarmash&layout=compact&hide=jupyter+notebook)
 
