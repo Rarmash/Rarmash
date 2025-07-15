@@ -1,7 +1,7 @@
 # Hi there, I'm Andrew! 👋
 
 ## About Me
-Hello! I'm Andrew, a programmer and a student at RTU MIREA. I have a passion for coding and constantly strive to learn new technologies. My primary programming languages include Java, Python, C/C++, HTML/CSS, and I am currently exploring C#, Kotlin and JavaScript.
+Hello! I'm Andrew, a programmer and a student at RTU MIREA. I have a passion for coding and constantly strive to learn new technologies. My primary programming languages include Java, Kotlin, Python, C/C++, HTML/CSS, and I am currently exploring C#, TypeScript and JavaScript.
 
 ## Skills
 - Languages: Java, Python, C/C++, HTML/CSS, Kotlin
