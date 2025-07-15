@@ -23,13 +23,9 @@ Here are some of my notable projects:
 
    A text-based RPG game written in Python.
 
-4. [B4cklog](https://github.com/Rarmash/B4cklog)
+4. [B4cklog](https://github.com/B4cklog/B4cklog)
 
-   A game backlog manager written in Python.
-   
-5. [B4cklog-Mobile](https://github.com/Rarmash/B4cklog-Mobile)
-
-   Android client for B4cklog app.
+   A personal game backlog management system with Android client, Spring Boot backend, and React + TypeScript web interface.
    
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Rarmash&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rarmash&layout=compact&hide=jupyter+notebook)
